@@ -57,18 +57,26 @@ Revenue increased from \$87.5 million in 2019 to \$598.9 million in 2021 — a g
 
 ### Market Performance vs. Sales Targets Comparison
 
+[Market Performance vs. Sales Targets Comparison](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Market%20Performance%20vs.%20Sales%20Targets%20Comparison.pdf)
+
 Some markets exceeded sales targets, while others fell short → opportunities for reallocation of resources.
 
 ### Top 10 Products with Sales Increase (2020 → 2021)
+
+[Top 10 Products with Sales Increase](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Top%2010%20Products%20with%20Sales%20Increase.pdf)
+
 
 Top products included AQ Electron 4 3600 Desktop Processor and AQ Pen Drive DRC.
 Clear evidence of flagship products driving sales growth.
 
 ### Division Sales Report
 
-PC sales increased from \$40.1 million in 2020 to \$165.8 million in 2021.
-Accessories and peripherals grew from \$105.2 million to \$338.4 million (321.5% increase).
-Networking and storage products surged from \$51.4 million to \$94.7 million (184.4% increase).
+[Division Level Sales Report](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Division%20level%20Report.pdf)
+
+
+• PC sales increased from \$40.1 million in 2020 to \$165.8 million in 2021.
+• Accessories and peripherals grew from \$105.2 million to \$338.4 million (321.5% increase).
+• Networking and storage products surged from \$51.4 million to \$94.7 million (184.4% increase).
 
 ### Top & Bottom 5 Sold Products (by Quantity)
 

@@ -51,7 +51,7 @@ Business Intelligence Skills: Dashboard Design, Data Storytelling, Decision Supp
 ## 📊 Sales Analysis Reports & Insights
 
 ### Customer Net Sales Performance Report
-https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf
+[Customer Net Sales Performance Report](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
 Revenue increased from \$87.5 million in 2019 to \$598.9 million in 2021 — a growth of 304.5%.
 

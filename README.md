@@ -1,4 +1,4 @@
-# AtliQ-hardware---Sales-and-financial-analytics-
+# 📊 Atliq Hardware – Sales & Finance Analytics Dashboard
 
 ## 📌 Introduction
 
@@ -107,17 +107,29 @@ Germany → lower margins, requiring pricing/cost adjustments.
 
 Regional GM% variations provided valuable guidance for strategy and cost control.
 
-Overall Insights
-1.Customer Sales Performance: Notable growth, with a 304% increase in revenue, particularly in 2021.
-2.Top 10 Products: Consistent strong performance of key products from 2020 to 2021.
-3.Market Performance vs. Target: Valuable insights into market performance relative to sales goals.
-4.New Products in 2021: Successful introduction of new products with robust sales.
-5.Top 5 Countries in 2021: Identification of leading markets with strong sales figures.
-6.Top and Bottom 5 Products: Clear focus on both high-performing and underperforming products for strategic adjustments.
-7.Division Level Report: Remarkable growth in the PC division, with substantial revenue increases.
-8.Profit and Loss Reports: Detailed assessments of financial health across various dimensions.
-9.Market-Specific P&L Reports: Insights into regional profitability to inform future strategies.
-10.Gross Margin % by Quarter: Understanding of regional performance changes to aid in decision-making.
+---
+
+## 📌 Overall Insights
+
+Customer Sales Performance: 304% revenue growth, particularly in 2021.
+
+Top 10 Products: Consistent strong performance from 2020 to 2021.
+
+Market Performance vs. Target: Clear insights into market strengths and gaps.
+
+New Products in 2021: Successful launches contributing to sales growth.
+
+Top 5 Countries in 2021: Identification of leading markets with strong sales.
+
+Top and Bottom 5 Products: Strategic clarity on high vs. low performers.
+
+Division Level Report: Remarkable growth in PC division and accessories.
+
+Profit and Loss Reports: Holistic financial health assessment.
+
+Market-Specific P\&L Reports: Regional profitability insights for strategy.
+
+Gross Margin % by Quarter: Deep understanding of cost and profitability trends.
 
 This project was built using Power Query, Power Pivot, DAX, and Pivot Tables in Excel for data cleaning, transformation, and visualization, resulting in actionable insights for Atliq’s strategic planning.
 

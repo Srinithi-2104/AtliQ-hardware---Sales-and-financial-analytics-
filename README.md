@@ -75,10 +75,13 @@ Clear evidence of flagship products driving sales growth.
 
 
 • PC sales increased from \$40.1 million in 2020 to \$165.8 million in 2021.
+
 • Accessories and peripherals grew from \$105.2 million to \$338.4 million (321.5% increase).
+
 • Networking and storage products surged from \$51.4 million to \$94.7 million (184.4% increase).
 
 ### Top & Bottom 5 Sold Products (by Quantity)
+[Top and bottom 5 sold Products by Quantity](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/Top%20and%20Bottom%205%20Sold%20products.pdf)
 
 Top Products: AQ Master Wired X1 Ms ranked highest in sales volume.
 Bottom Products: Several underperformers identified → candidates for review.
@@ -90,6 +93,7 @@ Bottom Products: Several underperformers identified → candidates for review.
 AQ Qwerty emerged as a strong performer among new launches.
 
 ### Top 5 Sales Countries in 2021
+[Top 5 Sales Countries in 2021](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Top%205%20countries.pdf)
 
 India: \$161.3M (largest market).
 Other key markets: USA, South Korea, UK, Canada.

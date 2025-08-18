@@ -63,7 +63,7 @@ Some markets exceeded sales targets, while others fell short → opportunities f
 
 ### Top 10 Products with Sales Increase (2020 → 2021)
 
-[Top 10 Products with Sales Increase](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Top%2010%20Products%20with%20Sales%20Increase.pdf)
+[Top 10 Products with Sales Increase](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Top%2010%20Products.pdf)
 
 
 Top products included AQ Electron 4 3600 Desktop Processor and AQ Pen Drive DRC.
@@ -84,6 +84,7 @@ Top Products: AQ Master Wired X1 Ms ranked highest in sales volume.
 Bottom Products: Several underperformers identified → candidates for review.
 
 ### New Products in 2021
+[New Products in 2021](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/New%20Products%202021.pdf)
 
 16 new products introduced in 2021.
 AQ Qwerty emerged as a strong performer among new launches.
@@ -97,22 +98,26 @@ Other key markets: USA, South Korea, UK, Canada.
 
 ## 💰 Financial Analysis Reports & Insights
 
-### Yearly Profit & Loss (P\&L) Report
+### Yearly Profit & Loss (P&L) Report
+[Yearly P&L Report](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
 Net sales grew 204.5% in 3 years.
 Strong gross margin stability despite scaling costs.
 
-### Quarterly Profit & Loss (P\&L) Comparison
+### Quarterly Profit & Loss (P&L) Comparison
+[Quarterly Profit & Loss (P&L) Comparison](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/P%26L%20by%20Fiscal%20Month.pdf)
 
 2021 showed rapid sales growth.
 Profit margins remained stable despite cost increases.
 
 ### Market-Specific Profit & Loss Report
+[Market-Specific Profit and Loss Report](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/P%26L%20by%20Market.pdf)
 
 Japan and New Zealand → highest profit margins.
 Germany → lower margins, requiring pricing/cost adjustments.
 
 ### Quarterly Gross Margin % by Location
+[Quarterly Gross Margin % by location](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/GM%20%25%20by%20Quarters%20(Sub_Zone).pdf)
 
 Regional GM% variations provided valuable guidance for strategy and cost control.
 
@@ -120,25 +125,25 @@ Regional GM% variations provided valuable guidance for strategy and cost control
 
 ## 📌 Overall Insights
 
-Customer Sales Performance: 304% revenue growth, particularly in 2021.
+1.Customer Sales Performance: 304% revenue growth, particularly in 2021.
 
-Top 10 Products: Consistent strong performance from 2020 to 2021.
+2.Top 10 Products: Consistent strong performance from 2020 to 2021.
 
-Market Performance vs. Target: Clear insights into market strengths and gaps.
+3.Market Performance vs. Target: Clear insights into market strengths and gaps.
 
-New Products in 2021: Successful launches contributing to sales growth.
+4.New Products in 2021: Successful launches contributing to sales growth.
 
-Top 5 Countries in 2021: Identification of leading markets with strong sales.
+5.Top 5 Countries in 2021: Identification of leading markets with strong sales.
 
-Top and Bottom 5 Products: Strategic clarity on high vs. low performers.
+6.Top and Bottom 5 Products: Strategic clarity on high vs. low performers.
 
-Division Level Report: Remarkable growth in PC division and accessories.
+7.Division Level Report: Remarkable growth in PC division and accessories.
 
-Profit and Loss Reports: Holistic financial health assessment.
+8.Profit and Loss Reports: Holistic financial health assessment.
 
-Market-Specific P\&L Reports: Regional profitability insights for strategy.
+9.Market-Specific P\&L Reports: Regional profitability insights for strategy.
 
-Gross Margin % by Quarter: Deep understanding of cost and profitability trends.
+10.Gross Margin % by Quarter: Deep understanding of cost and profitability trends.
 
 This project was built using Power Query, Power Pivot, DAX, and Pivot Tables in Excel for data cleaning, transformation, and visualization, resulting in actionable insights for Atliq’s strategic planning.
 

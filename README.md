@@ -81,7 +81,7 @@ Clear evidence of flagship products driving sales growth.
 • Networking and storage products surged from \$51.4 million to \$94.7 million (184.4% increase).
 
 ### Top & Bottom 5 Sold Products (by Quantity)
-[Top and bottom 5 sold Products by quantity](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/mainTop%20and%20Bottom%205%20Sold%20products.pdf)
+[Top and bottom 5 sold Products by quantity](https://github.com/Srinithi-2104/AtliQ-hardware---Sales-and-financial-analytics-/blob/main/Top%20and%20Bottom%205%20Sold%20%20products.pdf)
 
 Top Products: AQ Master Wired X1 Ms ranked highest in sales volume.
 Bottom Products: Several underperformers identified → candidates for review.
